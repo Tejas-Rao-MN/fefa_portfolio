@@ -53,11 +53,11 @@ const Footer = () => {
         I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
       </FooterText>
       <SocialLinks>
-        <a href="https://github.com/harshabathala12" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
-        <a href="https://www.linkedin.com/in/bathalaharsha" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
+        <a href="https://github.com/Tejas-Rao-MN" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
+        <a href="https://www.linkedin.com/in/tejas-rao-mn/" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
       </SocialLinks>
       <CopyrightText>
-        Designed & Built by Bathala Harsha with <span>React</span>
+        Designed & Built by Tejas Rao M N with <span>React</span>
       </CopyrightText>
     </FooterContainer>
   );

@@ -119,7 +119,7 @@ const Header = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
       >
-        BATHALA <span>HARSHA</span>
+        Tejas <span>Rao M N</span>
       </Name>
       <Subtitle
         initial={{ opacity: 0 }}
